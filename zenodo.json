@@ -1,0 +1,43 @@
+{
+  "title": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
+  "description": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "alzheimer",
+    "dashboard",
+    "dementia",
+    "epidemiology",
+    "harvard-dataverse",
+    "latin-america",
+    "open-data",
+    "projections",
+    "public-health"
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "publication_date": "2026-03-20",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "contributors": [],
+  "grants": [],
+  "notes": "Compiled from publicly available secondary sources. Author ORCID: https://orcid.org/0000-0002-8401-8018"
+}
