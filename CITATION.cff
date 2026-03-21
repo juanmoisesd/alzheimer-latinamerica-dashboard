@@ -1,26 +1,21 @@
 cff-version: 1.2.0
-message: "If you use this software or data, please cite it using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "Alzheimer's Disease in Latin America Dashboard"
+title: "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
     email: "juanmoises.delaserna@unir.net"
-doi: 10.7910/DVN/UVHABW
-url: https://doi.org/10.7910/DVN/UVHABW
 repository-code: "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard"
-license: CC0-1.0
-date-released: "2026-03-20"
-keywords:
-  - "alzheimer"
-  - "latin-america"
-  - "dashboard"
-  - "open-data"
-  - "dementia"
-  - "projections"
-  - "harvard-dataverse"
-  - "epidemiology"
-  - "public-health"
+url: "https://juanmoisesd.github.io/alzheimer-latinamerica-dashboard/"
 abstract: "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW"
+keywords:
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
