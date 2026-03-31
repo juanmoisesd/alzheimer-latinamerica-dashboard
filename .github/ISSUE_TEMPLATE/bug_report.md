@@ -1,22 +1,27 @@
 ---
-name: 🐛 Bug Report
-about: Report an error in the data or code
+name: Bug report / Data issue
+about: Report incorrect data, broken dashboard, or technical errors
 title: '[BUG] '
 labels: bug
 assignees: juanmoisesd
 ---
 
-## Description
-What is the bug or error?
-
-## File / Variable affected
-Which file or variable contains the error?
-
-## Expected value
-What should the correct value be? (include source if possible)
+## Describe the bug
+<!-- A clear and concise description of the issue -->
 
 ## Steps to reproduce
-How can we reproduce the issue?
+1. Go to '...'
+2. Click on '...'
+3. See error
+
+## Expected behavior
+<!-- What should happen? -->
+
+## Screenshots
+<!-- If applicable, add screenshots -->
+
+## Environment
+- OS: [e.g. Windows 11, macOS 14]
+- Browser: [e.g. Chrome 120, Firefox 121]
 
 ## Additional context
-Any other relevant information.
