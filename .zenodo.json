@@ -1,5 +1,71 @@
 {
   "title": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
+  "description": "Interactive dashboard and dataset on Alzheimer's disease prevalence, incidence projections (2000-2050), healthcare access indices, and caregiver burden across 8 Latin American countries. Includes policy impact analysis and demographic breakdowns. FAIR-compliant with multilingual documentation in 8+ languages.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "alzheimer",
+    "dementia",
+    "latin-america",
+    "epidemiology",
+    "dashboard",
+    "projections",
+    "public-health",
+    "caregiver-burden",
+    "open-data",
+    "FAIR-data",
+    "neurodegeneration",
+    "healthcare-access"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    },
+    {
+      "identifier": "openaire"
+    },
+    {
+      "identifier": "eoscfuture"
+    },
+    {
+      "identifier": "neurology"
+    },
+    {
+      "identifier": "health-open-research"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://juanmoisesd.github.io/alzheimer-latinamerica-dashboard/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.19145316",
+      "relation": "isPartOf",
+      "scheme": "doi",
+      "resource_type": "collection"
+    }
+  ],
+  "notes": "OpenAIRE compliant. Submitted to EOSC Future. Part of the Open Research Collection by Juan Moisés Serna Tuya (DOI: 10.5281/zenodo.19145316). Includes CITATION.cff, datapackage.json, and Schema.org structured metadata."
+}{
+  "title": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
   "description": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
   "upload_type": "dataset",
   "access_right": "open",
