@@ -1,0 +1,31 @@
+# Alzheimer Latin America Dashboard
+
+> Interactive epidemiological dashboard on Alzheimer's Disease in Latin America (2000–2050).
+
+## Author
+Juan Moisés de la Serna Tuya (UNIR)
+ORCID: 0000-0002-8401-8018
+Email: jmsernatuya@gmail.com
+
+## Description
+Open dataset and interactive dashboard covering Alzheimer's Disease epidemiology across 8 Latin American countries (Argentina, Brazil, Chile, Colombia, Cuba, Mexico, Peru, Uruguay). Includes prevalence estimates, projections to 2050, caregiver burden indicators, policy index scores, and socioeconomic correlates. Data spans 2000–2050 with 5-year intervals.
+
+## Coverage
+- Countries: Argentina, Brazil, Chile, Colombia, Cuba, Mexico, Peru, Uruguay
+- Years: 2000–2050 (projected)
+- Variables: prevalence, incidence, mortality, caregiver burden, policy index, GDP correlation
+
+## Dataset DOI
+https://doi.org/10.7910/DVN/UVHABW
+
+## Dashboard URL
+https://juanmoisesd.github.io/alzheimer-latinamerica-dashboard/
+
+## License
+Data: CC BY 4.0 | Code: MIT
+
+## Citation
+Serna Tuya, J.M. (2025). Alzheimer Latin America Dashboard: Epidemiological Open Dataset. Harvard Dataverse. https://doi.org/10.7910/DVN/UVHABW
+
+## Keywords
+alzheimer, dementia, latin america, epidemiology, open data, public health, aging, neuroscience, caregiver burden
