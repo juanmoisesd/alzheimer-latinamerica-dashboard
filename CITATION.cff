@@ -1,32 +1,31 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
-title: "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW"
-abstract: "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW"
 authors:
-  - family-names: "de la Serna Tuya"
+  - family-names: "Serna Tuya"
     given-names: "Juan Moisés"
-    orcid: "https://orcid.org/0000-0002-8401-8018"
-    affiliation: "Universidad Internacional de La Rioja (UNIR)"
-    email: "juanmoises.delaserna@unir.net"
-repository-code: "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard"
-url: "https://juanmoisesd.github.io/alzheimer-latinamerica-dashboard/"
-keywords:
-  - open-data
-  - dataset
-  - research
-  - science
-license: CC0-1.0
+    email: "jmsernatuya@gmail.com"
+    affiliation: "Independent Researcher"
+title: "Alzheimer Latin America Dashboard: Epidemiological Open Dataset"
 version: "1.0.0"
-date-released: "2026-03-20"
-doi: "10.5281/zenodo.19145316"
+doi: 10.5281/zenodo.19145316
+date-released: "2025-01-01"
+url: "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard"
+repository-code: "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard"
+license: CC-BY-4.0
+keywords:
+  - alzheimer
+  - dementia
+  - latin-america
+  - epidemiology
+  - open-data
+  - neurology
+  - public-health
+abstract: >
+  Open epidemiological dataset on Alzheimer's disease and related dementias
+  in Latin America. Includes incidence, prevalence, mortality, risk factors,
+  and public policy indicators for 20+ countries, 2000-2024.
 references:
-  - type: dataset
-    title: "Open Research Collection — Juan Moisés de la Serna Tuya"
-    doi: "10.5281/zenodo.19145316"
-    url: "https://doi.org/10.5281/zenodo.19145316"
-    authors:
-      - family-names: "De la Serna Tuya"
-        given-names: "Juan Moisés"
-        orcid: "https://orcid.org/0000-0002-8401-8018"
-    notes: "Master collection of 1273+ open research datasets"
+  - type: url
+    title: "Zenodo Open Research Collection — Juan Moisés Serna Tuya"
+    url: "https://zenodo.org/communities/openaire"
