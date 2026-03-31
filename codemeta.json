@@ -1,48 +1,43 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
-  "description": "Interactive dashboard: Alzheimer's Disease in Latin America (2000-2050). 8 countries, projections, policy index, caregiver burden. DOI: 10.7910/DVN/UVHABW",
+  "name": "Alzheimer Latin America Dashboard: Epidemiological Open Dataset",
+  "description": "Open epidemiological dataset on Alzheimer's disease and related dementias in Latin America (2000-2024). Includes incidence, prevalence, mortality, risk factors, and public policy indicators for 20+ countries.",
+  "identifier": "https://doi.org/10.5281/zenodo.19145316",
+  "datePublished": "2025-01-01",
+  "dateModified": "2025-03-31",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
   "url": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard",
   "codeRepository": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard",
-  "dateCreated": "2026-03-20",
-  "dateModified": "2026-03-20",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "version": "1.0.0",
+  "issueTracker": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/issues",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "familyName": "Serna Tuya",
+      "email": "jmsernatuya@gmail.com",
       "affiliation": {
         "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      },
-      "email": "juanmoises.delaserna@unir.net"
+        "name": "Independent Researcher"
+      }
     }
   ],
   "keywords": [
     "alzheimer",
-    "dashboard",
     "dementia",
-    "epidemiology",
-    "harvard-dataverse",
     "latin-america",
+    "epidemiology",
     "open-data",
-    "projections",
-    "public-health"
+    "neurology",
+    "public-health",
+    "dashboard"
   ],
-  "programmingLanguage": "HTML",
-  "maintainer": [
-    {
-      "@type": "Person",
-      "givenName": "Juan Moisés",
-      "familyName": "de la Serna Tuya"
-    }
-  ],
-  "funder": {
-    "@type": "Organization",
-    "name": "Universidad Internacional de La Rioja (UNIR)"
-  }
+  "programmingLanguage": [],
+  "softwareRequirements": [],
+  "funder": [],
+  "readme": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/blob/main/README.md",
+  "releaseNotes": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/blob/main/CHANGELOG.md",
+  "contIntegration": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/actions",
+  "citation": "https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/blob/main/CITATION.cff"
 }
