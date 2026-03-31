@@ -11,3 +11,26 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green)](https://orcid.org/0000-0002-8401-8018)
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Pages](https://img.shields.io/badge/Live-Dashboard-brightgreen)](https://juanmoisesd.github.io/alzheimer-latinamerica-dashboard/)
+
+
+## 📖 Citation
+
+If you use this dataset or dashboard in your research, please cite:
+
+**APA:**
+Serna Tuya, J. M. (2025). *Interactive dashboard: Alzheimer's Disease in Latin America (2000–2050). 8 countries, projections, policy index, and healthcare access indicators*. Zenodo. https://doi.org/10.5281/zenodo.15229868
+
+**Chicago:**
+Serna Tuya, Juan Moisés. "Interactive Dashboard: Alzheimer's Disease in Latin America (2000–2050). 8 Countries, Projections, Policy Index, and Healthcare Access Indicators." Zenodo, 2025. https://doi.org/10.5281/zenodo.15229868.
+
+**BibTeX:**
+```bibtex
+@dataset{sernatuya_2025_alzheimer,
+  author    = {Serna Tuya, Juan Moisés},
+  title     = {Interactive dashboard: Alzheimer's Disease in Latin America (2000–2050)},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.15229868},
+  url       = {https://doi.org/10.5281/zenodo.15229868}
+}
+```
