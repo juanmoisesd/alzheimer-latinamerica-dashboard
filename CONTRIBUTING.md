@@ -1,62 +1,30 @@
-# Contributing to Alzheimer's Disease in Latin America: Interactive Dashboard
+# Contributing to Alzheimer Latin America Dashboard
 
-Thank you for your interest in contributing to **Alzheimer's Disease in Latin America: Interactive Dashboard**!
+Thank you for your interest in contributing! 🎉
 
-This repository is part of the open research of [Juan Moisés de la Serna Tuya](https://github.com/juanmoisesd) (UNIR).  
-ORCID: [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018)
+## Ways to Contribute
 
----
+### 📊 Data Contributions
+- Report outdated or incorrect data with a [bug report](../../issues/new?template=bug_report.md)
+- Suggest new datasets or countries to include via a [feature request](../../issues/new?template=feature_request.md)
+- Submit corrections with documented sources (WHO, PAHO, World Bank, etc.)
 
-## 🌍 How to Contribute
+### 💻 Code Contributions
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature-name`
+3. Commit your changes: `git commit -m "feat: describe your change"`
+4. Push to your fork: `git push origin feature/your-feature-name`
+5. Open a Pull Request describing your changes
 
-### 1. Report Issues or Suggestions
-Open an [Issue](https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/issues) describing:
-- The problem found or improvement proposed
-- Steps to reproduce the issue (if applicable)
-- Screenshots or example data
+### 📖 Documentation
+- Fix typos, improve clarity, translate to Spanish or Portuguese
+- Add usage examples or tutorials
 
-### 2. Propose Data Improvements
-If you have additional data or corrections:
-1. **Fork** this repository
-2. Create a branch: `git checkout -b improvement/description`
-3. Make your changes and document the data source
-4. Submit a **Pull Request** with a clear description
+## Code of Conduct
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
-### 3. Improve Documentation
-Typo corrections, translations, or README improvements are welcome.
+## Citation
+If you use this dataset in your research, please cite it using the information in [CITATION.cff](CITATION.cff).
 
----
-
-## 📋 Quality Standards
-
-- Data must come from **verifiable and citable sources**
-- Include references to the original source (DOI, URL, institution)
-- CSV files should have headers in English
-- Metadata should follow the [FAIR principles](https://www.go-fair.org/)
-
----
-
-## 📝 Cite this Repository
-
-If you use this data in your research, please cite it:
-
-```bibtex
-@misc{delaserna_alzheimer_latinamerica_dashboard,
-  author    = {de la Serna Tuya, Juan Moisés},
-  title     = {Alzheimer's Disease in Latin America: Interactive Dashboard},
-  year      = {2024},
-  publisher = {GitHub},
-  url       = {https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard},
-  orcid     = {0000-0002-8401-8018}
-}
-```
-
----
-
-## ⚖️ License
-
-By contributing, you agree that your contributions will be published under the [CC0 1.0 Universal](LICENSE) license.
-
----
-
-*Questions? Contact via [GitHub Issues](https://github.com/juanmoisesd/alzheimer-latinamerica-dashboard/issues).*
+## Contact
+Questions? Open a [Discussion](../../discussions) or email jmsernatuya@gmail.com.
