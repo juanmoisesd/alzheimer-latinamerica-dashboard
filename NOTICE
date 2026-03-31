@@ -1,0 +1,42 @@
+NOTICE — Data Source Attribution
+=================================
+
+Project: Alzheimer's Disease in Latin America Dashboard
+Author:  Juan Moisés de la Serna Tuya (UNIR)
+ORCID:   https://orcid.org/0000-0002-8401-8018
+DOI:     https://doi.org/10.5281/zenodo.15229868
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Data Sources
+------------
+This dataset was compiled and curated from the following public sources:
+
+1. World Health Organization (WHO) — Global Health Observatory
+   URL: https://www.who.int/data/gho
+   License: CC BY-NC-SA 3.0 IGO
+
+2. Alzheimer's Disease International (ADI) — World Alzheimer Report
+   URL: https://www.alzint.org/research/
+   License: Used for reference and validation only
+
+3. Pan American Health Organization (PAHO) — Health Information Platform
+   URL: https://www.paho.org/en/topics/dementia
+   License: Open access for non-commercial use
+
+4. World Bank Open Data — Health Indicators
+   URL: https://data.worldbank.org/
+   License: CC BY 4.0
+
+Attribution Requirement
+-----------------------
+If you use this dataset in your research or publications, please cite:
+
+  Serna Tuya, J. M. (2025). Interactive dashboard: Alzheimer's Disease
+  in Latin America (2000-2050). Zenodo.
+  https://doi.org/10.5281/zenodo.15229868
+
+Third-Party Rights
+------------------
+The raw source data from WHO, ADI, PAHO, and World Bank remains subject
+to their respective licenses. This NOTICE does not grant any rights to
+those underlying data sources beyond what their licenses allow.
